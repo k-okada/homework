@@ -36,6 +36,9 @@ roslaunch turtlebot_teleop keyboard_teleop.launch
 ```
 
 6. create teleop program that stops if the robot hit the obstacles.
+```
+<TODO>
+```
 
 
 ### Grading
@@ -46,4 +49,4 @@ roslaunch turtlebot_teleop keyboard_teleop.launch
 - Solve question at ansers.ros.org 50pt (also answered to the issue at this repository )
 - Create Pull request 10pt (for accepted pull request + 40 pt)
 
-- Requires to get at least more than 50 pt per week,  expecting to get 100-200 pt for getting B score.
+- Requires to get at least more than 50 pt per week,  expecting to get 100-200 pt for getting A score.
