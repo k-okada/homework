@@ -1,0 +1,3 @@
+<launch>
+  <include file="$(find fetch_gazebo)/launch/include/fetch.launch.xml" />
+</launch>
